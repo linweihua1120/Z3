@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 #include "sgd.h"
-
+//123
 // 定义目标电流和系统参数
 #define TARGET_CURRENT 3.0f   // 目标电流 4A
 #define ADC_MAX_VOLTAGE 5.0f  // ADC的最大输入电压（取决于参考电压）
