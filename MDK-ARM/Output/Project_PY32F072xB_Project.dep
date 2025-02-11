@@ -34,7 +34,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\Inc\main.h)(0x67906015)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 F (..\Src\main.c)(0x676D02A2)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
 I (..\Inc\main.h)(0x67906015)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
@@ -69,7 +69,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\usb_config.h)(0x66BDA3BF)
 I (..\Inc\app_bootloader.h)(0x673BF3FA)
 I (..\Inc\app_wdg.h)(0x66BDA3BF)
@@ -157,7 +157,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\app_bootloader.h)(0x673BF3FA)
 I (..\Inc\app_usart.h)(0x66BDA3BF)
 I (..\Inc\app_i2c.h)(0x66BDA3BF)
@@ -198,7 +198,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\app_flash.h)(0x673BE288)
 I (..\Inc\app_usart.h)(0x66BDA3BF)
 I (..\Inc\app_bootloader.h)(0x673BF3FA)
@@ -237,7 +237,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\app_i2c.h)(0x66BDA3BF)
 I (..\Inc\app_wdg.h)(0x66BDA3BF)
 F (..\Src\app_usart.c)(0x66BDA3BF)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\app_usart.o --omf_browse .\output\app_usart.crf --depend .\output\app_usart.d)
@@ -274,7 +274,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\app_usart.h)(0x66BDA3BF)
 I (..\Inc\app_wdg.h)(0x66BDA3BF)
 F (..\Src\app_wdg.c)(0x66BDA3BF)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\app_wdg.o --omf_browse .\output\app_wdg.crf --depend .\output\app_wdg.d)
@@ -311,7 +311,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\app_wdg.h)(0x66BDA3BF)
 F (..\Src\md5.c)(0x66EA36E6)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\md5.o --omf_browse .\output\md5.crf --depend .\output\md5.d)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
@@ -351,11 +351,11 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
 F (..\Src\aes.h)(0x66EAA0F4)()
-F (..\Src\py32f07x_hal_msp.c)(0x67A32E13)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\py32f07x_hal_msp.o --omf_browse .\output\py32f07x_hal_msp.crf --depend .\output\py32f07x_hal_msp.d)
+F (..\Src\py32f07x_hal_msp.c)(0x67A361FC)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\py32f07x_hal_msp.o --omf_browse .\output\py32f07x_hal_msp.crf --depend .\output\py32f07x_hal_msp.d)
 I (..\Inc\main.h)(0x67906015)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
 I (..\Inc\py32f07x_hal_conf.h)(0x674E7AC2)
@@ -389,7 +389,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 F (..\Src\aesConvert.c)(0x6704C9D1)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\aesconvert.o --omf_browse .\output\aesconvert.crf --depend .\output\aesconvert.d)
 I (..\Inc\main.h)(0x67906015)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
@@ -424,7 +424,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\app_bootloader.h)(0x673BF3FA)
 I (..\Inc\app_usart.h)(0x66BDA3BF)
 I (..\Inc\app_i2c.h)(0x66BDA3BF)
@@ -1132,7 +1132,7 @@ I (..\..\..\Middlewares\Third_Party\CherryUSB\common\usb_log.h)(0x66BDA3BE)
 I (..\..\..\Middlewares\Third_Party\CherryUSB\common\usb_dc.h)(0x66BDA3BE)
 I (..\Inc\main.h)(0x67906015)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 F (..\..\..\Middlewares\Third_Party\CherryUSB\class\hid\usbd_hid.c)(0x66BDA3BE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\usbd_hid.o --omf_browse .\output\usbd_hid.crf --depend .\output\usbd_hid.d)
 I (..\..\..\Middlewares\Third_Party\CherryUSB\core\usbd_core.h)(0x66BDA3BE)
 I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599ECD2E)
@@ -1189,7 +1189,7 @@ I (..\..\..\..\RTT\SEGGER_RTT.h)(0x66BDA3A2)
 I (..\..\..\..\RTT\SEGGER_RTT_Conf.h)(0x66BDA3A2)
 I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x599ECD2C)
 I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
-F (..\sgd\ADC.c)(0x6792F0A6)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\adc.o --omf_browse .\output\adc.crf --depend .\output\adc.d)
+F (..\sgd\ADC.c)(0x67A35937)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\adc.o --omf_browse .\output\adc.crf --depend .\output\adc.d)
 I (..\sgd\KTH57XXIIC.h)(0x66D2C27B)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
@@ -1225,7 +1225,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\sgd\MyI2C.h)(0x66C2BBFF)
 I (..\Inc\main.h)(0x67906015)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
 I (..\..\..\..\RTT\SEGGER_RTT.h)(0x66BDA3A2)
 I (..\..\..\..\RTT\SEGGER_RTT_Conf.h)(0x66BDA3A2)
@@ -1265,7 +1265,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\sgd\MyI2C.h)(0x66C2BBFF)
 I (..\Inc\main.h)(0x67906015)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
 I (..\..\..\..\RTT\SEGGER_RTT.h)(0x66BDA3A2)
 I (..\..\..\..\RTT\SEGGER_RTT_Conf.h)(0x66BDA3A2)
@@ -1304,12 +1304,12 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\sgd\KTH57XXIIC.h)(0x66D2C27B)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\..\..\..\RTT\SEGGER_RTT.h)(0x66BDA3A2)
 I (..\..\..\..\RTT\SEGGER_RTT_Conf.h)(0x66BDA3A2)
 I (..\sgd\sgdFlash.h)(0x66C2BBFF)
 F (..\sgd\MyI2C.c)(0x674EE443)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\myi2c.o --omf_browse .\output\myi2c.crf --depend .\output\myi2c.d)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
 I (..\Inc\py32f07x_hal_conf.h)(0x674E7AC2)
@@ -1376,8 +1376,8 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
-F (..\sgd\py32f07x_it.c)(0x67A3305E)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\py32f07x_it.o --omf_browse .\output\py32f07x_it.crf --depend .\output\py32f07x_it.d)
+I (..\sgd\sgd.h)(0x67A36284)
+F (..\sgd\py32f07x_it.c)(0x67A35899)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\py32f07x_it.o --omf_browse .\output\py32f07x_it.crf --depend .\output\py32f07x_it.d)
 I (..\Inc\main.h)(0x67906015)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
 I (..\Inc\py32f07x_hal_conf.h)(0x674E7AC2)
@@ -1411,7 +1411,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\Inc\py32f07x_it.h)(0x66BDA3BF)
 F (..\sgd\sgdFlash.c)(0x66C2BBFF)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\sgdflash.o --omf_browse .\output\sgdflash.crf --depend .\output\sgdflash.d)
 I (..\sgd\KTH57XXIIC.h)(0x66D2C27B)
@@ -1449,7 +1449,7 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\sgd\MyI2C.h)(0x66C2BBFF)
 I (..\Inc\main.h)(0x67906015)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
 I (..\..\..\..\RTT\SEGGER_RTT.h)(0x66BDA3A2)
 I (..\..\..\..\RTT\SEGGER_RTT_Conf.h)(0x66BDA3A2)
@@ -1491,14 +1491,14 @@ I (..\sgd\MyI2C.h)(0x66C2BBFF)
 I (..\sgd\ADC.h)(0x66C2BBFF)
 I (..\sgd\OnePluseFlash.h)(0x66C42EE7)
 I (..\Inc\main.h)(0x67906015)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\sgd\BatteryLed.h)(0x66C2BBFF)
 I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599ECD2C)
 I (..\..\..\..\RTT\SEGGER_RTT.h)(0x66BDA3A2)
 I (..\..\..\..\RTT\SEGGER_RTT_Conf.h)(0x66BDA3A2)
-F (..\sgd\sb.c)(0x67920339)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\sb.o --omf_browse .\output\sb.crf --depend .\output\sb.d)
+F (..\sgd\sb.c)(0x67A42C41)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\sb.o --omf_browse .\output\sb.crf --depend .\output\sb.d)
 I (..\sgd\sb.h)(0x674E6D29)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
 I (..\Inc\py32f07x_hal_conf.h)(0x674E7AC2)
@@ -1533,10 +1533,10 @@ I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_tim_ex.h)(0x66BDA3BE)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal_uart.h)(0x66BDA3BE)
 I (..\..\..\..\RTT\SEGGER_RTT.h)(0x66BDA3A2)
 I (..\..\..\..\RTT\SEGGER_RTT_Conf.h)(0x66BDA3A2)
-F (..\sgd\CurrentCtrl.c)(0x67A33108)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\currentctrl.o --omf_browse .\output\currentctrl.crf --depend .\output\currentctrl.d)
+F (..\sgd\CurrentCtrl.c)(0x67A35900)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -W -O3 --apcs=interwork --split_sections -I ..\Inc -I ..\..\..\Drivers\BSP\PY32F072xx_Start_Kit -I ..\..\..\Drivers\CMSIS\Include -I ..\..\..\Drivers\CMSIS\Device\PY32F07X\Include -I ..\..\..\Drivers\PY32F07X_HAL_Driver\Inc -I ..\..\..\Middlewares\Third_Party\CherryUSB\port -I ..\..\..\Middlewares\Third_Party\CherryUSB\core -I ..\..\..\Middlewares\Third_Party\CherryUSB\common -I ..\..\..\Middlewares\Third_Party\CherryUSB\class\hid -I ..\..\..\..\RTT -I ..\sgd-I.\RTE\_PY32F072xB_Project-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Drivers\CMSIS\Device\PY32F0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Puya\PY32F0xx_DFP\1.2.1\Device\Include-D__UVISION_VERSION="525" -D_RTE_ -DVECT_TAB_BASE="0x08000000" -DUSE_HAL_DRIVER -DPY32F072xB-o .\output\currentctrl.o --omf_browse .\output\currentctrl.crf --depend .\output\currentctrl.d)
 I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
 I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x599ECD2E)
-I (..\sgd\sgd.h)(0x67A32E82)
+I (..\sgd\sgd.h)(0x67A36284)
 I (..\..\..\Drivers\BSP\PY32F072xx_Start_Kit\py32f072xx_Start_Kit.h)(0x66BDA3BD)
 I (..\..\..\Drivers\PY32F07X_HAL_Driver\Inc\py32f07x_hal.h)(0x66BDA3BE)
 I (..\Inc\py32f07x_hal_conf.h)(0x674E7AC2)

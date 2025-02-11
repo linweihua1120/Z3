@@ -82,7 +82,7 @@ void SysTick_Handler(void)
   
 	//SEGGER_RTT_printf(0, "r  \r\n");
  			// sgdReadAdc( );
-	if(getTick() % 10  == 0){
+	if(getTick() % 33  == 0){
 			//sgdIP5036Ctrl();
 			sgdReadAdc();
 		}

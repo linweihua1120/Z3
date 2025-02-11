@@ -229,8 +229,8 @@ void record_charge_data(void) {
         float average_current = total_current / 10;
         int average_hv = total_hv / 10;
 
-//        SEGGER_RTT_printf(0, "Average HV = %03d, Average Current = %04d  Pluse = %02d   vbat = %04d  %04d   a= %d  b=%d tick = %d  count = %d\n",
-//                          		average_hv, 		read_current() ,	pluseValue, pluseVbat,  getFilterBat_mV( ),	pluseA,		pluseB, 		getTick(),getOneFlashCount() );
+//        SEGGER_RTT_printf(0, "Average HV = %03d, Average Current = %04d  Pluse = %02d   vbat = %04d  %04d \t temp= %04d   a= %d  b=%d tick = %d  count = %d\n",
+//                          		average_hv, 		read_current() ,	pluseValue, pluseVbat,  getFilterBat_mV( ),	sgdGetADCCurrentres( ),pluseA,		pluseB, 		getTick(),getOneFlashCount() );
 
         // 重置累加值
         total_current = 0.0;
@@ -317,7 +317,7 @@ void charge_control(void) {
 //}
 
 
-#define WINDOW_SIZE 50  // 滤波窗口大小（奇数）
+#define WINDOW_SIZE  19  // 滤波窗口大小（奇数）
 
 // 用于排序的比较函数
 int compare(const void *a, const void *b) {

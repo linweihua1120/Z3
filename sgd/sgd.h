@@ -85,8 +85,8 @@
 
 //#define PORT_RX_C					GPIOA
 //#define PIN_RX_C					GPIO_PIN_5
-#define PORT_COMP1OUT_DEC					GPIOA
-#define PIN_COMP1OUT_DEC					GPIO_PIN_6
+//#define PORT_COMP1OUT_DEC					GPIOA
+//#define PIN_COMP1OUT_DEC					GPIO_PIN_6
 
 #define PORT_RX_A					GPIOA
 #define PIN_RX_A					GPIO_PIN_15

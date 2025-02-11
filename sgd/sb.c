@@ -550,8 +550,8 @@ void initCOMP1(){
 	hcomp1.Init.DigitalFilter   = 200;										/* Disable DigitalFilter */
 	//hcomp1.Init.VrefDiv		   = COMP_VREF_DIV_32_64VREF;				 /* Vrefcmp 32/64 */
 		//hcomp1.Init.VrefDiv		   = COMP_VREF_DIV_19_64VREF;				 /* Vrefcmp 32/64 */
-hcomp1.Init.VrefDiv		   = COMP_VREF_DIV_21_64VREF;				 /* Vrefcmp 32/64 */
-	//hcomp1.Init.VrefDiv		   = COMP_VREF_DIV_42_64VREF;				 /* Vrefcmp 32/64 */
+//hcomp1.Init.VrefDiv		   = COMP_VREF_DIV_21_64VREF;				 /* Vrefcmp 32/64 */
+	hcomp1.Init.VrefDiv		   = COMP_VREF_DIV_1_64VREF;				 /* Vrefcmp 32/64 */
 	hcomp1.Init.VrefSrc		   = COMP_VREF_SRC_VCCA;					 /* Vref select VCCA */  
 
 	/* COMP1 initialization */

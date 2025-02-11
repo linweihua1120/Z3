@@ -124,9 +124,9 @@ void HAL_TIM_Base_MspInit(TIM_HandleTypeDef *htim)
 //	GPIO_InitStruct.Pin = GPIO_PIN_2;
 //	HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 	//TIM2_CH4
-	GPIO_InitStruct.Alternate = GPIO_AF2_TIM1;
-	GPIO_InitStruct.Pin = GPIO_PIN_3;
-	HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
+//	GPIO_InitStruct.Alternate = GPIO_AF2_TIM1;
+//	GPIO_InitStruct.Pin = GPIO_PIN_3;
+//	HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
 
 	//TIM1_CH1N 
@@ -148,7 +148,7 @@ void HAL_TIM_Base_MspInit(TIM_HandleTypeDef *htim)
 	HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
 	/* PA0 configured as analog input */
-	GPIO_InitStruct.Pin = GPIO_PIN_5|GPIO_PIN_4;
+	GPIO_InitStruct.Pin = GPIO_PIN_5 ;
 	GPIO_InitStruct.Mode = GPIO_MODE_ANALOG;            /* analog Mode */
 	GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_HIGH;
 	GPIO_InitStruct.Pull = GPIO_NOPULL;                 /* No Pull */
